@@ -415,7 +415,7 @@ a.p2:active {
   font-family: Georgia, serif;
 }
 .categoryStyleBusiness h2 {
-  color: white;
+  color: yellow;
   font-size: 32px;
 }
 
@@ -424,7 +424,7 @@ a.p2:active {
   color: #777;
   text-decoration: none;
   transition: all 0.45s;
-  color: #cd2727;
+  color: yellow;
 }
 
 .categoryStyleTechnology {
