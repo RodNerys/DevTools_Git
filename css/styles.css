@@ -199,14 +199,14 @@ input[type="submit"]:hover {
   display: none;
 }
 .star-rating {
-  margin: 50px auto;
+  margin: 10px auto;
   display: table;
   width: 350px;
 }
 .star-rating label {
   padding: 10px;
-  float: right;
-  font-size: 44px;
+  float: center;
+  font-size: 30px;
   color: rgb(107, 113, 114);
 }
 .star-rating input:not(:checked) ~ label:hover,
