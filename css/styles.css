@@ -399,16 +399,17 @@ a.p2:active {
   margin-right: auto;
 }
 .categoryStyleScience h2 {
-  color: white;
+  color: blue;
   font-size: 32px;
 }
 
 .categoryStyleScience a {
+  font-style: italic;
   font-size: 22px;
   color: #777;
   text-decoration: none;
   transition: all 0.45s;
-  color: #ff5041;
+  color: blue;
 }
 
 .categoryStyleBusiness {
