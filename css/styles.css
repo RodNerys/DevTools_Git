@@ -432,14 +432,15 @@ a.p2:active {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .categoryStyleTechnology h2 {
-  color: white;
+  color: greenyellow;
   font-size: 32px;
 }
 
 .categoryStyleTechnology a {
+  font-style: oblique;
   font-size: 22px;
   color: #777;
   text-decoration: none;
   transition: all 0.45s;
-  color: #ff7a41;
+  color: greenyellow;
 }
